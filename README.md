@@ -1,3 +1,7 @@
+# Android Architecture Blueprints
+
+Android Architecture Blueprint is a project that follows Clean Architecture principles and MVVM pattern to develop Android apps.
+
 # News App ✔️
 
 #### A simple News App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
@@ -34,3 +38,5 @@ The App is using the [News Api] to searching news.
 ### Project Architecture 🗼
 
 This app uses [MVVM (Model View View-Model)] architecture.
+
+![alt text](https://github.com/trungnghi4/Android-Blueprint-NewsApp/blob/master/mvvm_architecture.png?raw=true)
