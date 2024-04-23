@@ -7,11 +7,11 @@ Android Architecture Blueprint is a project that follows Clean Architecture prin
 
 ## News App ✔️
 
-#### A simple News App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
+#### News App built to demonstrate the use of modern android architecture component with MVVM Architecture
 
 The App is using the [News Api] to searching news.
 
-### Build With 🏗️
+### Build With
 - [Kotlin] - Programming language for Android
 - [Hilt-Dagger] - Standard library to incorporate Dagger dependency injection into an Android application.
 - [Retrofit] -  A type-safe HTTP client for Android and Java.
@@ -38,9 +38,8 @@ The App is using the [News Api] to searching news.
    [News Api]: <https://newsapi.org/>
    [Room]: <https://developer.android.com/training/data-storage/room/>
    
-### Project Architecture 🗼
+### Project Architecture
 
 This app uses [MVVM (Model View View-Model)] architecture.
 
 ![alt text](https://github.com/trungnghi4/Android-Blueprint-NewsApp/blob/master/mvvm_architecture.png?raw=true)
->>>>>>> master
